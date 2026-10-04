@@ -242,9 +242,3 @@ El objetivo del proyecto es aplicar conocimientos fundamentales de desarrollo we
 
 **Anthony Pataron**
 🎓 Ingeniería de Software — UNEMI
-
----
-
-<p align="center">
-  ⭐ Proyecto académico desarrollado para la <strong>Universidad Estatal de Milagro (UNEMI)</strong> ⭐
-</p>
