@@ -240,7 +240,7 @@ El objetivo del proyecto es aplicar conocimientos fundamentales de desarrollo we
 **Hector Tenelema**
 🎓 Ingeniería de Software — UNEMI
 
-**Pataron Steven**
+**Anthony Pataron**
 🎓 Ingeniería de Software — UNEMI
 
 ---
